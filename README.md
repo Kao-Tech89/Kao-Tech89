@@ -10,7 +10,7 @@ Former professional driver transitioning into IT and cybersecurity. My short-ter
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kao-Tech89/Detection-Lab/tree/main>Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kao-Tech89"> Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -39,6 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- "https://github.com/Kao-Tech89/Detection-Lab/tree/main>Detection Lab</a>
+-  <a href="https://github.com/Kao-Tech89"> Detection Lab</a>|
 - SOC Automation Project
 - Test Project
